@@ -1,0 +1,5 @@
+2 variables de fuentes (bodonimoda, poppins)
+
+variable de colores 
+
+variable de font size 
